@@ -7,6 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <!-- <Button Content=" Pixame" Width="150" Height="50" FontSize="30"></Button> -->
+        <!--<Button>
+            <Button.Width>200</Button.Width>
+            <Button.Height>70</Button.Height>
+            <Button.FontSize>50</Button.FontSize>
+            <Button.Content>
+                <WrapPanel>
+                    <TextBlock Foreground="Beige">Antroploophilia</TextBlock>
+                    <TextBlock Foreground="MediumPurple">Blasfemia</TextBlock>
+                    <TextBlock Foreground="Red">si</TextBlock>
+                </WrapPanel>
+            </Button.Content>
+        </Button>-->
         
     </Grid>
 </Window>
